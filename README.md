@@ -1,4 +1,4 @@
-# Crypto-Witties
+# Crypto Coin
 
 This is a simple implementation of a cryptocurrency using TypeScript. This doesn't include any network implementation, just the blockchain instance on the local machine.
 
